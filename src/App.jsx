@@ -31,7 +31,7 @@ useEffect(()=>{
   return (
    <>
   <div className='w-full max-w-md px-4 mx-auto my-8 text-red-700 bg-blue-800 rounded-lg shadow-md '>
-    <h1 className='mx-3 my-3 text-center text-white'>Password Generator</h1>
+    <h1 className='mx-3 my-3 text-center text-white'>"Generate Unbreakable Passwords with Ease."</h1>
     <div className="flex mb-4 overflow-hidden rounded-lg shadow">
       <input type="text"  
       value={password}
